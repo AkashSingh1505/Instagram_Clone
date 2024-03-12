@@ -10,6 +10,8 @@ Customization: Developers can easily customize the project to add additional fea
 
 ## Screenshots
 
-![image](https://github.com/AkashSingh1505/Instagram_Clone_flutter/assets/139606462/8b99daaf-68cf-4194-83c3-490a3e56d46d)
+![image](https://github.com/AkashSingh1505/Instagram_Clone_flutter/assets/139606462/96f2324b-0ee1-41e7-9f85-2d5115b68b91)
+
+
 
 
